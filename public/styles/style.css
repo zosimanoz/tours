@@ -1,0 +1,30 @@
+body{
+	margin:0 auto;
+	padding:0px;
+	background-color:#e9eaed;	
+}
+
+.nav{
+	height:42px;
+	width:100%;
+	background-color:#425f9c;	
+}
+
+.divSideBar{
+	width: 98px;
+	height: auto;
+	margin-top: 9px;
+	float: left;
+}
+
+.divMainContent{
+	margin-left:268px;
+	min-height:247px;
+	margin-top:9px;
+	background-color:#ffffff;
+	width:695px;
+	float:left;
+}
+
+
+
